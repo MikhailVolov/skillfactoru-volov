@@ -1,0 +1,18 @@
+
+body{
+	background-color: SpringGreen;
+}
+h1{
+	color: MediumSlateBlue;
+	font-size: 25;
+}
+a{
+	color: FireBrick;
+	font-size: 20px;
+}
+footer{
+	color: LightSlateGray;
+}
+body nav{
+	background: indigo;
+}
